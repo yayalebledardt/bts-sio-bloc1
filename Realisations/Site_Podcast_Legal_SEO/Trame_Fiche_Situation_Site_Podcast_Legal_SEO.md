@@ -1,4 +1,4 @@
-# FICHE DE SITUATION PROFESSIONNELLE — BLOC 1 (ÉPREUVE E4)
+# FICHE DE SITUATION PROFESSIONNELLE (ÉPREUVE E4)
 
 ## 1. IDENTIFICATION GÉNÉRALE
 - **Titre de la réalisation :** Mise en ligne d'un site public : référencement, pages légales et durcissement
@@ -37,7 +37,7 @@
 
 À ajouter si possible : une capture avant / après du référencement, ou les positions mesurées.
 
-## 6. COMPÉTENCES DU BLOC 1 MOBILISÉES
+## 6. COMPÉTENCES SLAM MOBILISÉES
 - [ ] **B1.1 — Gérer le patrimoine informatique :** —
 - [ ] **B1.2 — Répondre aux incidents et demandes d'assistance :** —
 - [x] **B1.3 — Développer la présence en ligne :** C'est la seule compétence du bloc qui traite à la fois de la visibilité sur les moteurs de recherche, de la communication numérique et du cadre juridique. Les mentions légales ne sont pas un à-côté administratif : elles font partie de la compétence.

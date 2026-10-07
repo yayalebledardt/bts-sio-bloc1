@@ -1,5 +1,5 @@
 
-# FICHE DE SITUATION PROFESSIONNELLE — BLOC 1 (ÉPREUVE E4)
+# FICHE DE SITUATION PROFESSIONNELLE (ÉPREUVE E4)
 
 ## 1. IDENTIFICATION GÉNÉRALE
 - **Titre de la réalisation :** [Ex : Déploiement d'un agent de supervision et inventaire GLPI]
@@ -37,7 +37,7 @@
 - Captures d'écran significatives (avec masquage des données sensibles)
 - Cahier de recette ou rapport de tests
 
-## 6. COMPÉTENCES DU BLOC 1 MOBILISÉES
+## 6. COMPÉTENCES SLAM MOBILISÉES
 - [ ] **B1.1 — Gérer le patrimoine informatique :** [Justification courte]
 - [ ] **B1.2 — Répondre aux incidents et demandes d'assistance :** [Justification courte]
 - [ ] **B1.3 — Développer la présence en ligne :** [Justification courte]

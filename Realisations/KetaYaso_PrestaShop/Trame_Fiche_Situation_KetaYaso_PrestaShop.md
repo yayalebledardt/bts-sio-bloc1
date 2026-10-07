@@ -1,4 +1,4 @@
-# FICHE DE SITUATION PROFESSIONNELLE — BLOC 1 (ÉPREUVE E4)
+# FICHE DE SITUATION PROFESSIONNELLE (ÉPREUVE E4)
 
 ## 1. IDENTIFICATION GÉNÉRALE
 - **Titre de la réalisation :** KetaYaso — conception et réalisation d'une boutique e-commerce sous PrestaShop
@@ -43,7 +43,7 @@
 - [ ] La composition de l'équipe et le rôle de chacun
 - [ ] Le dépôt Git. **S'il est confidentiel, le dire franchement** et montrer à la place des extraits de code, un schéma de base de données, un diagramme de classes. Ce qu'il ne faut pas faire : laisser le jury chercher et ne rien trouver.
 
-## 6. COMPÉTENCES DU BLOC 1 MOBILISÉES
+## 6. COMPÉTENCES SLAM MOBILISÉES
 - [ ] **B1.1 — Gérer le patrimoine informatique :** —
 - [ ] **B1.2 — Répondre aux incidents et demandes d'assistance :** —
 - [x] **B1.3 — Développer la présence en ligne :** Acquis sans réserve : une boutique en ligne est une présence en ligne, et le SEO faisait partie du travail.

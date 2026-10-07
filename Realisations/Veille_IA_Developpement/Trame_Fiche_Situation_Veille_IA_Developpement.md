@@ -1,4 +1,4 @@
-# FICHE DE SITUATION PROFESSIONNELLE — BLOC 1 (ÉPREUVE E4)
+# FICHE DE SITUATION PROFESSIONNELLE (ÉPREUVE E4)
 
 ## 1. IDENTIFICATION GÉNÉRALE
 - **Titre de la réalisation :** Veille technologique : l'IA dans le développement logiciel
@@ -44,7 +44,7 @@ Ce qui existe déjà, et qui rend la suite rapide :
 
 Une cadence tenue vaut mieux qu'un rattrapage. Trois entrées suffisent à prouver une démarche ; zéro n'en prouve aucune.
 
-## 6. COMPÉTENCES DU BLOC 1 MOBILISÉES
+## 6. COMPÉTENCES SLAM MOBILISÉES
 - [ ] **B1.1 — Gérer le patrimoine informatique :** —
 - [ ] **B1.2 — Répondre aux incidents et demandes d'assistance :** —
 - [ ] **B1.3 — Développer la présence en ligne :** —

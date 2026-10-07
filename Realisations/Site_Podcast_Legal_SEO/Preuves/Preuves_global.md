@@ -8,3 +8,14 @@
 - [x] Durcissement : CSRF, webhook signé, anti-spam, CSP — semaine 5
 
 À ajouter si possible : une capture avant / après du référencement, ou les positions mesurées.
+
+## Aperçu visuel
+
+![Accueil du site du podcast](01-accueil-du-site.png)
+*L'accueil : le concept en une phrase, et l'accès au dernier épisode.*
+
+![Le concept](02-le-concept.png)
+*La fiche du studio mobile — une Cox orange équipée de deux micros.*
+
+![La section des invités](03-les-invites.png)
+*La section casting, en attente de ses premiers épisodes.*

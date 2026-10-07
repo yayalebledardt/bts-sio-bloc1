@@ -6,3 +6,10 @@
 - [ ] Extrait commenté du code de contrôle au démarrage
 - [ ] **Capture du message d'erreur quand une variable manque** — la preuve la plus parlante : elle montre le comportement, pas l'intention
 - [ ] Avant / après de l'optimisation de la base, si une mesure existe
+
+## L'application concernée
+
+![L'application de coach sportif](01-application-concernee.png)
+*L'application dont l'environnement de production a été fiabilisé. Cette
+capture montre ce qui tournait, pas le travail lui-même — les preuves du
+contrôle au démarrage restent à produire.*

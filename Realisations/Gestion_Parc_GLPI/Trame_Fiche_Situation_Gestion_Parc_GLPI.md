@@ -1,4 +1,4 @@
-# FICHE DE SITUATION PROFESSIONNELLE — BLOC 1 (ÉPREUVE E4)
+# FICHE DE SITUATION PROFESSIONNELLE (ÉPREUVE E4)
 
 ## 1. IDENTIFICATION GÉNÉRALE
 - **Titre de la réalisation :** Gestion d'un parc informatique et prise en charge de tickets d'incident sous GLPI
@@ -44,7 +44,7 @@ Documentation : ce qui permet à quelqu'un d'autre de le refaire sans moi
 
 Le quatrième point est celui qui distingue un dépannage d'un incident traité. Deux tickets bien formalisés valent mieux que quinze racontés.
 
-## 6. COMPÉTENCES DU BLOC 1 MOBILISÉES
+## 6. COMPÉTENCES SLAM MOBILISÉES
 - [x] **B1.1 — Gérer le patrimoine informatique :** L'inventaire du parc est un recensement d'actifs matériels et logiciels.
 - [x] **B1.2 — Répondre aux incidents et demandes d'assistance :** Prise en charge de demandes d'assistance, du signalement à la clôture, avec trace écrite.
 - [ ] **B1.3 — Développer la présence en ligne :** —

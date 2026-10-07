@@ -1,12 +1,15 @@
-# BTS SIO — Portfolio Bloc 1 · Yanis Haddou
+# BTS SIO — Portfolio E4 · Yanis Haddou
 
-Dépôt de suivi des compétences du **Bloc 1 — Support et mise à
-disposition de services informatiques** (épreuve E4), option SLAM,
-2ᵉ année.
+Dépôt de suivi des compétences pour l'**épreuve E4**, option SLAM,
+2ᵉ année. Le Bloc 1 est le plus documenté, mais les blocs 2 et 3 sont
+couverts aussi — la matrice de synthèse le montre.
 
 Structure reprise du dépôt de suivi de la formation : une réalisation,
 un dossier, une fiche de situation et ses preuves.
 
+- **[`Excel_competences/Tableau_Synthese_E4.md`](Excel_competences/Tableau_Synthese_E4.md)**
+  — la matrice compétences × réalisations, au format du fichier Excel
+  officiel. C'est la vue d'ensemble : une ligne sans croix est un trou.
 - **[`dashboard.md`](dashboard.md)** — les 18 savoirs du bloc, et où en
   est la preuve pour chacun.
 - **[`Trame_Fiche_Situation_Professionnelle.md`](Trame_Fiche_Situation_Professionnelle.md)**
@@ -17,15 +20,16 @@ Le portfolio en ligne : **<https://yanis-haddou.vercel.app>**
 
 ---
 
-## Les six réalisations
+## Les sept réalisations
 
 | Réalisation | Compétences | État de la preuve |
 | --- | --- | --- |
-| [Production & variables d'environnement](Realisations/Stage_Production_Variables_Environnement/) | **B1.1** + B1.5 | ⚠️ à produire |
-| [Parc & tickets GLPI](Realisations/Gestion_Parc_GLPI/) | **B1.2** + B1.1 | ✅ deux PDF en ligne |
-| [Site du podcast, légal & SEO](Realisations/Site_Podcast_Legal_SEO/) | **B1.3** | ✅ rapport + 5 captures |
-| [KetaYaso / PrestaShop](Realisations/KetaYaso_PrestaShop/) | **B1.3**, B1.4 *sous condition* | ⚠️ partielle |
-| [Stripe, Vercel & passation](Realisations/Stripe_Vercel_Passation/) | **B1.5** + B1.4 | ✅ 4 captures |
+| [Production & variables d'environnement](Realisations/Stage_Production_Variables_Environnement/) | B1.1, B1.5, B2.2, B3.4 | ⚠️ à produire |
+| [Parc & tickets GLPI](Realisations/Gestion_Parc_GLPI/) | B1.1, **B1.2** | ✅ deux PDF |
+| [Agent de tri de courriels](Realisations/Agent_Tri_Mails/) | B1.5, **B2.1**, B2.3, **B3.1**, B3.3, B3.4 | ✅ 2 captures |
+| [Site du podcast, légal & SEO](Realisations/Site_Podcast_Legal_SEO/) | **B1.3**, B2.2, B3.2, B3.4 | ✅ rapport + 3 captures |
+| [KetaYaso / PrestaShop](Realisations/KetaYaso_PrestaShop/) | **B1.3**, B1.4 *sous condition*, B2.1, B2.3 | ⚠️ partielle |
+| [Stripe, Vercel & passation](Realisations/Stripe_Vercel_Passation/) | **B1.4**, **B1.5**, B2.1, B2.2 | ✅ 3 captures |
 | [Veille — IA & développement](Realisations/Veille_IA_Developpement/) | **B1.6** | ❌ aucune |
 
 Les ✅ ont été vérifiés un par un : le document a été ouvert et répond en

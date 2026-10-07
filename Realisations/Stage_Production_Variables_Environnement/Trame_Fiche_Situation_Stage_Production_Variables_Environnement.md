@@ -1,4 +1,4 @@
-# FICHE DE SITUATION PROFESSIONNELLE — BLOC 1 (ÉPREUVE E4)
+# FICHE DE SITUATION PROFESSIONNELLE (ÉPREUVE E4)
 
 ## 1. IDENTIFICATION GÉNÉRALE
 - **Titre de la réalisation :** Fiabilisation d'un environnement de production : contrôle des variables d'environnement et optimisation de la base
@@ -36,7 +36,7 @@
 - [ ] **Capture du message d'erreur quand une variable manque** — la preuve la plus parlante : elle montre le comportement, pas l'intention
 - [ ] Avant / après de l'optimisation de la base, si une mesure existe
 
-## 6. COMPÉTENCES DU BLOC 1 MOBILISÉES
+## 6. COMPÉTENCES SLAM MOBILISÉES
 - [x] **B1.1 — Gérer le patrimoine informatique :** Le service existait déjà et tournait. Recenser ses dépendances, vérifier leur présence et faire échouer tôt, c'est veiller à son bon fonctionnement et à sa pérennité — pas développer une nouvelle vitrine.
 - [ ] **B1.2 — Répondre aux incidents et demandes d'assistance :** —
 - [ ] **B1.3 — Développer la présence en ligne :** —
